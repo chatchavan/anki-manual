@@ -96,7 +96,7 @@ are no longer reset.
 Advanced users can create filtered decks with arbitrary search strings
 (or 'filters'),
 instead of relying on the preset filters. To create a filtered deck manually,
-choose Create Filtered Deck from the Tools menu.
+choose Create Filtered Deck from the Tools menu (on macOS from the Edit menu).
 
 When you click the Build button, Anki finds cards that match the
 settings you specified, and temporarily moves them from their existing
